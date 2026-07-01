@@ -128,8 +128,3 @@ Superstore-Sales-Analysis/
 
 ---
 
-## Additional Documentation
-
-Detailed business findings and recommendations are available in:
-
-**Business_Insights_and_Recommendations.pdf**
