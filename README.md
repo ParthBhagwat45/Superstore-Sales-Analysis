@@ -114,11 +114,11 @@ Superstore-Sales-Analysis/
 
 ## Repository Files
 
-- Python Notebook: `notebooks/Superstore_Analysis.ipynb`
-- Tableau Workbook: `tableau/Superstore_Sales_Analysis.twbx`
-- Business Insights & Recommendations: `reports/Business_Insights_and_Recommendations.pdf`
-- Original Dataset: `data/Sample_Superstore.csv`
-- Cleaned Dataset: `data/Superstore_Cleaned.csv`
+- Python Notebook: [Superstore_Analysis.ipynb](notebooks/Superstore_Analysis.ipynb)
+- Tableau Workbook: [Superstore_Sales_Analysis.twbx](tableau/Superstore_Sales_Analysis.twbx)
+- Business Insights & Recommendations: [Business_Insights_and_Recommendations.pdf](reports/Business_Insights_and_Recommendations.pdf)
+- Original Dataset: [Sample_Superstore.csv](data/Sample_Superstore.csv)
+- Cleaned Dataset: [Superstore_Cleaned.csv](data/Superstore_Cleaned.csv)
 
 ---
 
